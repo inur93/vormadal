@@ -1,0 +1,20 @@
+{
+  "name": "vormadal",
+  "version": "1.0.0",
+  "description": "Collection of scripts for caprover",
+  "main": "dist/caprover-cleanup.js",
+  "repository": "https://github.com/inur93/vormadal.git",
+  "author": "Rúni Vørmadal <runivormadal@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "axios": "^1.4.0",
+    "typescript": "^5.1.6",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.24",
+    "ts-node": "^10.9.1"
+  }
+}
